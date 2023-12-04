@@ -3,7 +3,7 @@ function greetPerson(person:string): string {
     return "Hello, " + person;
   }
    
-  var user = "Seetings User";
+  var user = "Seetings Man";
    
 //   document.body.textContent = greeter(user);
 console.log(greetPerson(user));
